@@ -2,7 +2,7 @@
 ## Preface
 This is example of creating spring tasks that are scheduled to execute at certain points in time. Tutorial can be found at:
 
-https://springtutor.wordpress.com
+https://springtutor.wordpress.com/2015/12/23/spring-task-execution/
 
 ## Getting Started
 
